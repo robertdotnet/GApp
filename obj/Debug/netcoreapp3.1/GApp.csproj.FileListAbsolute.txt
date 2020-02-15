@@ -1,0 +1,17 @@
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.exe
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.deps.json
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.runtimeconfig.json
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.dll
+C:\Users\Robert\source\repos\GApp\bin\Debug\netcoreapp3.1\GApp.pdb
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.csprojAssemblyReference.cache
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp_MarkupCompile.cache
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp_MarkupCompile.lref
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.g.resources
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.AssemblyInfo.cs
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.dll
+C:\Users\Robert\source\repos\GApp\obj\Debug\netcoreapp3.1\GApp.pdb
